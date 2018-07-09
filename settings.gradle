@@ -1,2 +1,3 @@
 rootProject.name = 'testapp'
+include 'sub-module'
 
